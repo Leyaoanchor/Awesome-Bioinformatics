@@ -105,6 +105,8 @@ Package suites gather software packages and installation tools for specific lang
 - **[wormtable](https://github.com/wormtable/wormtable)** - Write-once-read-many table for large datasets.
 - **[zindex](https://github.com/mattgodbolt/zindex)** - Create an index on a compressed text file.
 
+- **[SeqBench](https://seqbench.com/)** - Browser-based toolbox for everyday DNA, RNA, and protein sequence tasks.
+
 ## Next Generation Sequencing
 
 ### Workflow Managers
